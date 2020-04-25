@@ -1,0 +1,13 @@
+/* Basic styles */
+
+.container {
+	text-align: center;
+}
+
+.poem-title {
+	text-decoration: underline;
+}
+
+.poem-author {
+	text-decoration: overline;
+}
