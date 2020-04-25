@@ -11,3 +11,7 @@
 .poem-author {
 	text-decoration: overline;
 }
+
+.container p {
+	font-style: italic;
+}
