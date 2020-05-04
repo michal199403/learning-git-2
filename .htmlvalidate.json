@@ -2,8 +2,7 @@
     "extends": [
       "htmlvalidate:recommended"
     ],
-   
-    "rules": {
+      "rules": {
       "close-order": "error",
       "void": ["warn", {"style": "omit"}]
     }
